@@ -4,7 +4,7 @@ API REST de TaskFlow (FastAPI + SQLAlchemy + SQLite) con las operaciones CRUD de
 
 - Base URL: `http://127.0.0.1:8000/api/v1`
 - Documentación interactiva: `http://127.0.0.1:8000/docs`
-- Colección Postman: [`TaskFlow.postman_collection.json`](TaskFlow.postman_collection.json)
+- Colección Postman: [`TaskFlow.postman_collection.json`](Taskflow-api/TaskFlow.postman_collection.json)
 
 ## Arrancar
 
