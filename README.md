@@ -140,7 +140,7 @@ Son **las 15 peticiones del contrato**, más 8 extra. Cada una lleva tests que c
 
 Resultado de **Run collection**: 23 peticiones y 39 tests, todos correctos.
 
-![Captura: ejecución de la colección](captura_postman.png)
+![Captura: ejecución de la colección](captura_postman1.png)
 
 ## Estructura
 
